@@ -1,4 +1,4 @@
-## Hi there, my name is Nazgul 👋
+# Hi there, my name is Nazgul 👋
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
