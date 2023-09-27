@@ -21,11 +21,11 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
 
 ## Skills
 - Programming Languages: 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
-  ![TypeScript](https://img.shields.io/badge/Typescript-Beginner-yellow)
-  ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-  ![Java](https://img.shields.io/badge/Java-Intermediate-blue)
-  ![Java](https://img.shields.io/badge/C/C++-Intermediate-blue)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+  ![TypeScript](https://img.shields.io/badge/Typescript-yellow)
+  ![Python](https://img.shields.io/badge/Python-blue)
+  ![Java](https://img.shields.io/badge/Java-blue)
+  ![Java](https://img.shields.io/badge/C/C++-blue)
 - Web Technologies: 
   ![HTML](https://img.shields.io/badge/HTML-green)
   ![CSS](https://img.shields.io/badge/CSS-green)
