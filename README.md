@@ -33,8 +33,3 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
   ![Adobe Illustrator](https://img.shields.io/badge/PyTorch-green)
 - **Agile**, **Scrum** Software Development
 
-[![CakeLink Mobile App UX/UI Design](https://img.shields.io/badge/View%20Project-Behance-blue?style=for-the-badge&logo=behance)](https://www.behance.net/gallery/180905669/CakeLink-Mobile-App-UXUI-design)
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazgulitos&show_icons=true&theme=radical) -->
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazgulitos&layout=compact&theme=blue-white)
-
