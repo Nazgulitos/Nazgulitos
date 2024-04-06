@@ -3,11 +3,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 
-  - 🔭 I’m currently working on my **GPA** 😅
-  - 🌱 I’m currently learning **advanced Python**
-  - 💬 Ask me about **Svelte**
-  - 📫 How to reach me: **n.salikhova@innopolis.university**
-  - ⚡ Fun fact: **I don't like coffee**
+  - 🌱 I’m currently learning **Machine Learning**
 
   </div>
   <div style="flex: 1;">
@@ -21,24 +17,20 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
 
 ## Skills
 - Programming Languages: 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-  ![TypeScript](https://img.shields.io/badge/Typescript-yellow)
-  ![Python](https://img.shields.io/badge/Python-blue)
+  ![Python](https://img.shields.io/badge/Python-black)
   ![Java](https://img.shields.io/badge/Java-blue)
   ![Java](https://img.shields.io/badge/C/C++-blue)
-- Web Technologies: 
-  ![HTML](https://img.shields.io/badge/HTML-green)
-  ![CSS](https://img.shields.io/badge/CSS-green)
+
 - Databases: 
-  ![SQL](https://img.shields.io/badge/SQL-Beginner-yellow)
+  ![SQL](https://img.shields.io/badge/PostgreSQL-green)
 - Version Control: 
   ![Git](https://img.shields.io/badge/Git-green)
   ![GitHub](https://img.shields.io/badge/GitHub-green)
 - Tools: 
-  ![VS Code](https://img.shields.io/badge/VS%20Code-green)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-green)
-  ![Figma](https://img.shields.io/badge/Figma-purple)
-  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-purple)
+  ![VS Code](https://img.shields.io/badge/Numpy-green)
+  ![IntelliJ IDEA](https://img.shields.io/badge/MatLab-green)
+  ![Figma](https://img.shields.io/badge/Sklearn-green)
+  ![Adobe Illustrator](https://img.shields.io/badge/PyTorch-green)
 - **Agile**, **Scrum** Software Development
 
 [![CakeLink Mobile App UX/UI Design](https://img.shields.io/badge/View%20Project-Behance-blue?style=for-the-badge&logo=behance)](https://www.behance.net/gallery/180905669/CakeLink-Mobile-App-UXUI-design)
