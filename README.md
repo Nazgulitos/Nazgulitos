@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 
-  - 🌱 I’m currently learning **Machine Learning**
+  - 🌱 I’m currently learning **Deep Learning for Search**
 
   </div>
   <div style="flex: 1;">
