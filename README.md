@@ -19,11 +19,12 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
 - Programming Languages: 
   ![Python](https://img.shields.io/badge/Python-black)
   ![Java](https://img.shields.io/badge/Java-blue)
-  ![Java](https://img.shields.io/badge/C/C++-blue)
+  ![C/C++](https://img.shields.io/badge/C/C++-blue)
 
 - Databases: 
   ![SQL](https://img.shields.io/badge/PostgreSQL-green)
   ![Milvus](https://img.shields.io/badge/Milvus-green)
+  ![ChromaDB](https://img.shields.io/badge/ChromaDB-green)
 
 - Version Control: 
   ![Git](https://img.shields.io/badge/Git-green)
@@ -34,6 +35,10 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
   ![Figma](https://img.shields.io/badge/Sklearn-green)
   ![Adobe Illustrator](https://img.shields.io/badge/PyTorch-green)
   ![Langchain](https://img.shields.io/badge/Langchain-green)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-green)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-green)
+  ![Keras](https://img.shields.io/badge/Keras-green)
+  ![Tensorflow](https://img.shields.io/badge/Tensorflow-green)
 - **Agile**, **Scrum** Software Development
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazgulitos&show_icons=true&theme=radical) -->
