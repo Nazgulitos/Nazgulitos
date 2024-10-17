@@ -18,27 +18,28 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
 ## Skills
 - Programming Languages: 
   ![Python](https://img.shields.io/badge/Python-black)
-  ![Java](https://img.shields.io/badge/Java-blue)
   ![C/C++](https://img.shields.io/badge/C/C++-blue)
 
 - Databases: 
-  ![SQL](https://img.shields.io/badge/PostgreSQL-green)
+  ![SQL](https://img.shields.io/badge/SQL-green)
   ![Milvus](https://img.shields.io/badge/Milvus-green)
   ![ChromaDB](https://img.shields.io/badge/ChromaDB-green)
 
 - Version Control: 
   ![Git](https://img.shields.io/badge/Git-green)
   ![GitHub](https://img.shields.io/badge/GitHub-green)
+  ![Gitlab](https://img.shields.io/badge/Gitlab-green)
 - Tools: 
   ![VS Code](https://img.shields.io/badge/Numpy-green)
   ![IntelliJ IDEA](https://img.shields.io/badge/MatLab-green)
+  ![IntelliJ IDEA](https://img.shields.io/badge/Pandas-green)
   ![Figma](https://img.shields.io/badge/Sklearn-green)
-  ![Adobe Illustrator](https://img.shields.io/badge/PyTorch-green)
+  ![Tensorflow](https://img.shields.io/badge/Tensorflow-green)
+  ![Keras](https://img.shields.io/badge/Keras-green)
   ![Langchain](https://img.shields.io/badge/Langchain-green)
   ![OpenCV](https://img.shields.io/badge/OpenCV-green)
   ![PyTorch](https://img.shields.io/badge/PyTorch-green)
-  ![Keras](https://img.shields.io/badge/Keras-green)
-  ![Tensorflow](https://img.shields.io/badge/Tensorflow-green)
+
 - **Agile**, **Scrum** Software Development
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazgulitos&show_icons=true&theme=radical) -->
