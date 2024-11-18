@@ -41,6 +41,3 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
   ![PyTorch](https://img.shields.io/badge/PyTorch-green)
 
 - **Agile**, **Scrum** Software Development
-
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazgulitos&show_icons=true&theme=radical) -->
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazgulitos&layout=compact&theme=blue-white)
