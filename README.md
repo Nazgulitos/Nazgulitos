@@ -21,7 +21,7 @@ University of Innopolis — 2022-2026 (track: Data Science & Artificial Intellig
   ![C/C++](https://img.shields.io/badge/C/C++-blue)
 
 - Databases: 
-  ![PosgreSQL](https://img.shields.io/badge/SQL-green)
+  ![PosgreSQL](https://img.shields.io/badge/PosgreSQL-green)
   ![ChromaDB](https://img.shields.io/badge/ChromaDB-green)
 
 - Version Control: 
